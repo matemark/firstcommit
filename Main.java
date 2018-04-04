@@ -13,7 +13,7 @@ public class Main {
         Person p = new Person();
         p.setId(12);
         p.setName("kasia");
-        p.setSurname("Dziwkarska");
+        p.setSurname("Szmata");
 
         Adress a = new Adress();
         a.setId(1);
